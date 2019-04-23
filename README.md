@@ -1,2 +1,2 @@
 # MyFirstReprosirory
-This is my first reprository, i`m Jameson.
+This is my first repository, i`m Jameson.
